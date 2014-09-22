@@ -32,4 +32,4 @@ Refer to original source for relevant licencing
 MovieFeedControl by Spanner888 at {U}sable{D}evices is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
 Permissions beyond the scope of this license may be available via http://usabledevices.com/2011/11/contact-emails-and-legal-and-copyright-information/.
 
-Blog of hardware build and other Telecine info can be found at http://UsableDevices.com
+Blog of hardware build and other Telecine info can be found at http://usabledevices.com/category/telecine/
